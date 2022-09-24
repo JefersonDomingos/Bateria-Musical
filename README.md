@@ -20,7 +20,7 @@ o foco foi o JavaScript.
 
 ## Link
 
-https://jefersondomingos.github.io/Jogo-da-velha/
+https://jefersondomingos.github.io/Bateria-Musical/
 
 ## Meus Contatos
  Jeferson Domingos Martins
