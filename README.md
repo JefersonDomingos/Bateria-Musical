@@ -1,7 +1,7 @@
 # <h1 align="center">  Bateria JavaScript </h1>
 
 ## <b>O projeto</b> </br>
-Um projeto simples, que foi copiado do Youtube e que fui aprendendo e consolidando meus conhecimentos em JavaScrip, HTML e CSS
+Um projeto simples que foi copiado do Youtube, mas que foi muito divertido e proveitoso para os meus conhecimentos em JavaScrip, HTML e CSS
 o foco foi o JavaScript.
 
 ## Tecnologias
