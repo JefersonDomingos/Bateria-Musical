@@ -22,7 +22,7 @@ o foco foi o JavaScript.
 
 https://jefersondomingos.github.io/Jogo-da-velha/
 
-## Autor
+## Meus Contatos
  Jeferson Domingos Martins
 
 - [LinkedIn](https://www.linkedin.com/in/jefersondomingos)</br>
